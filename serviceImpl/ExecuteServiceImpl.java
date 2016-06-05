@@ -1,4 +1,4 @@
-//璇蜂笉瑕佷慨鏀规湰鏂囦欢鍚�
+//请不要修改本文件名
 package serviceImpl;
 
 import java.rmi.RemoteException;
@@ -8,7 +8,7 @@ import service.ExecuteService;
 public class ExecuteServiceImpl implements ExecuteService {
 
 	/**
-	 * 璇峰疄鐜拌鏂规硶
+	 * 请实现该方法
 	 */
 	@Override
 	public String execute(String code, String param) throws RemoteException {
